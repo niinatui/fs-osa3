@@ -1,3 +1,3 @@
-Backend Renderissä:
+Sovellus Renderissä:
 
-https://puhluettelo-z0a7.onrender.com/api/persons
+https://puhluettelo-z0a7.onrender.com
